@@ -7,9 +7,9 @@ This repository contains analyses and visualizations of the Sample Superstore da
 - **Data**: The Sample Superstore dataset used for the analysis.
 - **Reports**: Tableau dashboards that provide a comprehensive view of the business performance.
 
-## Key File
+## Tableau Report
 
--  [`SampleSuperstoreAnalysis`](https://public.tableau.com/app/profile/apostolos.stavrou/viz/SampleSuperstore_17116619673680/BIReportSalesandDistribution): The main Tableau workbook file containing the dashboards.
+The main Tableau workbook file containing the dashboards is available online: [SampleSuperstoreAnalysis](https://public.tableau.com/app/profile/apostolos.stavrou/viz/SampleSuperstore_17116619673680/BIReportSalesandDistribution).
 
 ## Analysis Overview
 
