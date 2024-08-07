@@ -20,6 +20,7 @@ This project analyzes a bank marketing campaign dataset to understand customer r
 ## Data
 
 The dataset comes from a bank's direct marketing campaign. The goal is to predict if a client will subscribe to a term deposit.
+
 https://archive.ics.uci.edu/dataset/222/bank+marketing
 
 
