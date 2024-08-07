@@ -9,7 +9,7 @@ This repository contains analyses and visualizations of the Sample Superstore da
 
 ## Key File
 
-- `[SampleSuperstoreAnalysis.twbx](https://public.tableau.com/app/profile/apostolos.stavrou/viz/SampleSuperstore_17116619673680/BIReportSalesandDistribution)`: The main Tableau workbook file containing the dashboards.
+- `[SampleSuperstoreAnalysis](https://public.tableau.com/app/profile/apostolos.stavrou/viz/SampleSuperstore_17116619673680/BIReportSalesandDistribution)`: The main Tableau workbook file containing the dashboards.
 
 ## Analysis Overview
 
