@@ -57,5 +57,4 @@ The analysis results, including visualizations and model evaluations, are genera
 
 # Author
 
-- Apostolos Stavrou
-- https://www.linkedin.com/in/apostolos-stavrou-644982230
+- [Apostolos Stavrou](https://www.linkedin.com/in/apostolos-stavrou-644982230/)
