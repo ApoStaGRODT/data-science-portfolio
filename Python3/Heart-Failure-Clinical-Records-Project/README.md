@@ -20,7 +20,6 @@ The primary objective is to utilize machine learning and deep learning methods t
   1. Identify key predictors of heart failure.
   2. Evaluate the performance of different machine learning and deep learning models.
 
-## Usage
+# Author
 
-- **For In-depth Analysis**: Refer to `Heart_Failure_Project.ipynb`.
-- **For Summary and Presentation**: Refer to `Heart_Failure_Clinical_Records_final.docx`.
+- [Apostolos Stavrou](https://www.linkedin.com/in/apostolos-stavrou-644982230/)
