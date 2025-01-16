@@ -33,4 +33,4 @@ The primary objective is to leverage deep learning models to predict loan defaul
  
  # Author
 
-[Apostolos Stavrou](https://www.linkedin.com/in/apostolos-stavrou-644982230/)
+[Apostolos Stavrou](https://www.linkedin.com/in/apostolos-stavrou-ds/)
