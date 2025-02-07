@@ -21,7 +21,7 @@ This SQL script includes various queries and operations performed on the Northwi
    - Ensure you have the Northwind database set up in your SQL server. If you don't have it, you can download it from [here](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs).
 
 2. **Run the Script**:
-   - Open your SQL client (e.g., SQL Server Management Studio, MySQL Workbench, etc.).
+   - Open your SQL client.
    - Load the `Northwind_1.sql` file into the SQL client.
    - Execute the script to run the queries against the Northwind database.
 
