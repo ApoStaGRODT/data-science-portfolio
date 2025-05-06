@@ -1,4 +1,4 @@
-# Titanic - Machine Learning from Disaster
+# Store Sales - Time Series Forecasting
 
 This repository contains my work on the Kaggle Store Sales - Time Series Forecasting competition, where the objective is to forecast daily sales for various product families across multiple stores.
 The project includes comprehensive exploratory data analysis using time plots, lag plots, moving averages, forecast overlays, seasonal decomposition, and periodograms to uncover trends and seasonality in the data.
